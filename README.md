@@ -1,7 +1,5 @@
 ![](/Folder/unnamed.jpg)
-# Yuvraj Sarout
-
-### Doctoral Student
+# Doctoral Student
 
 I am Yuvraj Sarout, and I'm currently delving deep into the realms of shape optimization, combining the intricacies of computational fluid dynamics with the transformative power of machine learning during my PhD studies at École Nationale Supérieure d'Arts et Métiers in Metz, France. My journey in the field of mechanical engineering started at VIT University, Vellore, India. Here, I honed my skills in automotive engineering and graduated with a B.Tech, boasting an impressive GPA of 8.5/10. Furthering my academic pursuits, I acquired an MSc in Mechanical Engineering from Khalifa University of Science and Technology in Abu Dhabi, UAE, achieving a laudable GPA of 3.5/4. Professionally, I've made significant contributions as a Research Associate at Khalifa University of Science and Technology in Abu Dhabi, UAE. My research here primarily focused on the intricacies of Flow-induced Vibration, and I became adept at using tools such as ANSYS Fluent for advanced computational fluid dynamic simulations.
 
@@ -26,8 +24,15 @@ I am Yuvraj Sarout, and I'm currently delving deep into the realms of shape opti
 
 ## 👨‍💻 Work Experience
 
+### Doctoral Student
+_École Nationale Supérieure d'Arts et Métiers, Metz, France (03/2023-Present)_
+-  Collaborated on a high-profile project with Arcelor Mittal and ENSAM, contributing to advancements in shape optimization techniques.
+-  Proficient in using ANSYS tools, specializing in adjoint optimization methods for efficient design enhancements.
+-  Maintained an active role in the research community, attending workshops and seminars, to integrate the latest advancements into the project's workflow.
+-  Demonstrated expertise in turbulence modelling, boundary layer theory, and mesh generation within the ANSYS environment.
+
 ### Research Associate
-_Khalifa University of Science and Technology, Abu Dhabi, UAE (07/2022 - Present)_
+_Khalifa University of Science and Technology, Abu Dhabi, UAE (07/2022 - 12/2022)_
 - Intensive study of Flow-induced Vibration with heat exchanger pipe with varying temperature ratios.
 - Turbulence modelling with results validation.
 - CFD-driven project bolstered by post-processing with analysis of generated data.
@@ -38,6 +43,14 @@ _Khalifa University of Science and Technology, Abu Dhabi, UAE (08/2020 - 07/2022
 - Well-funded project by the government providing insights on topics such as CFD and FEA.
 - Intensive study of Flow-induced Vibration with heat exchanger pipe with varying temperature ratios.
 - Internally funded project giving an insight into the industrial approach of a nuclear power plant.
+
+### Aerodynamicist
+_Team Ojas, Vellore, India (09/2017-05/2019)_
+-  Conceptualization and design of an advanced aerodynamic package tailored for the FSAE (Formula Student) competition
+-  Utilized cutting-edge computational fluid dynamics (CFD) tools, particularly Star CCM+, to simulate and assess the airflow around the vehicle, ensuring optimized downforce, reduced drag, and improved overall     
+    aerodynamic efficiency.
+-  Adopted high-performance materials, predominantly carbon fibre, to ensure strength, durability, and weight optimization — vital factors for competitive racing
+-  Leveraged advanced manufacturing techniques, specifically vacuum bagging, to ensure a seamless, high-quality finish, and structural integrity of the components
 
 
 ## 🎓📚 Education
@@ -54,7 +67,6 @@ _Khalifa University of Science and Technology, Abu Dhabi, UAE (08/2020 - Present
 _VIT University, Vellore, India (06/2016 - 07/2020)_
 - GPA: 8.5/10
 - Thesis: Numerical Simulation of Flow through Scramjet Inlet - Isolator Model with Pressure Feedback
-
 
 ## 📑Publications
 
