@@ -19,7 +19,6 @@ I am Yuvraj Sarout, and I'm currently delving deep into the realms of shape opti
 - Solidworks
 - MATLAB
 - Python
-- HPC
 - Origin Pro
 
 ## 👨‍💻 Work Experience
